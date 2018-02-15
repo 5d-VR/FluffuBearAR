@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: a51966347b05f4c3e9c1abe5fe9eb20e
+timeCreated: 1510244029
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone002 1
+    100006: Bone003
+    100008: Bone003 1
+    100010: Bone004
+    100012: Bone004 1
+    100014: Bone005
+    100016: Bone006
+    100018: Bone010
+    100020: Bone010 1
+    100022: Bone011
+    100024: Bone011 1
+    100026: Bone012
+    100028: Bone013
+    100030: Bone014
+    100032: Bone015
+    100034: Bone016
+    100036: Bone017
+    100038: Bone018
+    100040: Bone019
+    100042: Bone020
+    100044: Bone021
+    100046: Bone022
+    100048: Bone023
+    100050: Cylinder001
+    100052: Cylinder002
+    100054: PhysCamera001
+    100056: PhysCamera001.Target
+    100058: Plane002
+    100060: polySurface32
+    100062: polySurface33
+    100064: pSphere1
+    100066: Raw_meat
+    100068: Raw_meat001
+    100070: Raw_meat002
+    100072: Raw_meat003
+    100074: Raw_meat004
+    100076: T- Rax Footsteps001
+    100078: T- Rax Head001
+    100080: T- Rax HeadNub001
+    100082: T- Rax L Calf001
+    100084: T- Rax L Clavicle001
+    100086: T- Rax L Finger013
+    100088: T- Rax L Finger014
+    100090: T- Rax L Finger015
+    100092: T- Rax L Finger016
+    100094: T- Rax L Finger017
+    100096: T- Rax L Finger018
+    100098: T- Rax L Finger0Nub001
+    100100: T- Rax L Finger1Nub001
+    100102: T- Rax L Foot001
+    100104: T- Rax L Forearm001
+    100106: T- Rax L Hand001
+    100108: T- Rax L HorseLink001
+    100110: T- Rax L Thigh001
+    100112: T- Rax L Toe023
+    100114: T- Rax L Toe024
+    100116: T- Rax L Toe025
+    100118: T- Rax L Toe026
+    100120: T- Rax L Toe027
+    100122: T- Rax L Toe028
+    100124: T- Rax L Toe029
+    100126: T- Rax L Toe030
+    100128: T- Rax L Toe031
+    100130: T- Rax L Toe0Nub001
+    100132: T- Rax L Toe1Nub001
+    100134: T- Rax L Toe2Nub001
+    100136: T- Rax L UpperArm001
+    100138: T- Rax Neck004
+    100140: T- Rax Neck005
+    100142: T- Rax Neck006
+    100144: T- Rax Neck007
+    100146: T- Rax Pelvis001
+    100148: T- Rax R Calf001
+    100150: T- Rax R Clavicle001
+    100152: T- Rax R Finger013
+    100154: T- Rax R Finger014
+    100156: T- Rax R Finger015
+    100158: T- Rax R Finger016
+    100160: T- Rax R Finger017
+    100162: T- Rax R Finger018
+    100164: T- Rax R Finger0Nub001
+    100166: T- Rax R Finger1Nub001
+    100168: T- Rax R Foot001
+    100170: T- Rax R Forearm001
+    100172: T- Rax R Hand001
+    100174: T- Rax R HorseLink001
+    100176: T- Rax R Thigh001
+    100178: T- Rax R Toe023
+    100180: T- Rax R Toe024
+    100182: T- Rax R Toe025
+    100184: T- Rax R Toe026
+    100186: T- Rax R Toe027
+    100188: T- Rax R Toe028
+    100190: T- Rax R Toe029
+    100192: T- Rax R Toe030
+    100194: T- Rax R Toe031
+    100196: T- Rax R Toe0Nub001
+    100198: T- Rax R Toe1Nub001
+    100200: T- Rax R Toe2Nub001
+    100202: T- Rax R UpperArm001
+    100204: T- Rax Spine004
+    100206: T- Rax Spine005
+    100208: T- Rax Spine006
+    100210: T- Rax Spine007
+    100212: T- Rax Tail020
+    100214: T- Rax Tail021
+    100216: T- Rax Tail022
+    100218: T- Rax Tail023
+    100220: T- Rax Tail024
+    100222: T- Rax Tail025
+    100224: T- Rax Tail026
+    100226: T- Rax Tail027
+    100228: T- Rax Tail028
+    100230: T- Rax Tail029
+    100232: T- Rax Tail030
+    100234: T- Rax Tail031
+    100236: T- Rax Tail032
+    100238: T- Rax Tail033
+    100240: T- Rax Tail034
+    100242: T- Rax Tail035
+    100244: T- Rax Tail036
+    100246: T- Rax Tail037
+    100248: T- Rax Tail038
+    100250: T- Rax Tail039
+    100252: T- Rax TailNub001
+    100254: T- Rax Xtra01Nub001
+    100256: T- Rax Xtra02Nub001
+    100258: T- Rax Xtra207
+    100260: T- Rax Xtra208
+    100262: T- Rax Xtra209
+    100264: T- Rax Xtra210
+    100266: T- Rax Xtra211
+    100268: T- Rax Xtra212
+    100270: T- Rax Xtra213
+    100272: T- Rax001
+    100274: T_Rex_GEO
+    100276: T_Rex_GEO_AA001
+    100278: Tongue_polySurface002
+    100280: Tongue_polySurface003
+    100282: //RootNode
+    400000: Bone001
+    400002: Bone002
+    400004: Bone002 1
+    400006: Bone003
+    400008: Bone003 1
+    400010: Bone004
+    400012: Bone004 1
+    400014: Bone005
+    400016: Bone006
+    400018: Bone010
+    400020: Bone010 1
+    400022: Bone011
+    400024: Bone011 1
+    400026: Bone012
+    400028: Bone013
+    400030: Bone014
+    400032: Bone015
+    400034: Bone016
+    400036: Bone017
+    400038: Bone018
+    400040: Bone019
+    400042: Bone020
+    400044: Bone021
+    400046: Bone022
+    400048: Bone023
+    400050: Cylinder001
+    400052: Cylinder002
+    400054: PhysCamera001
+    400056: PhysCamera001.Target
+    400058: Plane002
+    400060: polySurface32
+    400062: polySurface33
+    400064: pSphere1
+    400066: Raw_meat
+    400068: Raw_meat001
+    400070: Raw_meat002
+    400072: Raw_meat003
+    400074: Raw_meat004
+    400076: T- Rax Footsteps001
+    400078: T- Rax Head001
+    400080: T- Rax HeadNub001
+    400082: T- Rax L Calf001
+    400084: T- Rax L Clavicle001
+    400086: T- Rax L Finger013
+    400088: T- Rax L Finger014
+    400090: T- Rax L Finger015
+    400092: T- Rax L Finger016
+    400094: T- Rax L Finger017
+    400096: T- Rax L Finger018
+    400098: T- Rax L Finger0Nub001
+    400100: T- Rax L Finger1Nub001
+    400102: T- Rax L Foot001
+    400104: T- Rax L Forearm001
+    400106: T- Rax L Hand001
+    400108: T- Rax L HorseLink001
+    400110: T- Rax L Thigh001
+    400112: T- Rax L Toe023
+    400114: T- Rax L Toe024
+    400116: T- Rax L Toe025
+    400118: T- Rax L Toe026
+    400120: T- Rax L Toe027
+    400122: T- Rax L Toe028
+    400124: T- Rax L Toe029
+    400126: T- Rax L Toe030
+    400128: T- Rax L Toe031
+    400130: T- Rax L Toe0Nub001
+    400132: T- Rax L Toe1Nub001
+    400134: T- Rax L Toe2Nub001
+    400136: T- Rax L UpperArm001
+    400138: T- Rax Neck004
+    400140: T- Rax Neck005
+    400142: T- Rax Neck006
+    400144: T- Rax Neck007
+    400146: T- Rax Pelvis001
+    400148: T- Rax R Calf001
+    400150: T- Rax R Clavicle001
+    400152: T- Rax R Finger013
+    400154: T- Rax R Finger014
+    400156: T- Rax R Finger015
+    400158: T- Rax R Finger016
+    400160: T- Rax R Finger017
+    400162: T- Rax R Finger018
+    400164: T- Rax R Finger0Nub001
+    400166: T- Rax R Finger1Nub001
+    400168: T- Rax R Foot001
+    400170: T- Rax R Forearm001
+    400172: T- Rax R Hand001
+    400174: T- Rax R HorseLink001
+    400176: T- Rax R Thigh001
+    400178: T- Rax R Toe023
+    400180: T- Rax R Toe024
+    400182: T- Rax R Toe025
+    400184: T- Rax R Toe026
+    400186: T- Rax R Toe027
+    400188: T- Rax R Toe028
+    400190: T- Rax R Toe029
+    400192: T- Rax R Toe030
+    400194: T- Rax R Toe031
+    400196: T- Rax R Toe0Nub001
+    400198: T- Rax R Toe1Nub001
+    400200: T- Rax R Toe2Nub001
+    400202: T- Rax R UpperArm001
+    400204: T- Rax Spine004
+    400206: T- Rax Spine005
+    400208: T- Rax Spine006
+    400210: T- Rax Spine007
+    400212: T- Rax Tail020
+    400214: T- Rax Tail021
+    400216: T- Rax Tail022
+    400218: T- Rax Tail023
+    400220: T- Rax Tail024
+    400222: T- Rax Tail025
+    400224: T- Rax Tail026
+    400226: T- Rax Tail027
+    400228: T- Rax Tail028
+    400230: T- Rax Tail029
+    400232: T- Rax Tail030
+    400234: T- Rax Tail031
+    400236: T- Rax Tail032
+    400238: T- Rax Tail033
+    400240: T- Rax Tail034
+    400242: T- Rax Tail035
+    400244: T- Rax Tail036
+    400246: T- Rax Tail037
+    400248: T- Rax Tail038
+    400250: T- Rax Tail039
+    400252: T- Rax TailNub001
+    400254: T- Rax Xtra01Nub001
+    400256: T- Rax Xtra02Nub001
+    400258: T- Rax Xtra207
+    400260: T- Rax Xtra208
+    400262: T- Rax Xtra209
+    400264: T- Rax Xtra210
+    400266: T- Rax Xtra211
+    400268: T- Rax Xtra212
+    400270: T- Rax Xtra213
+    400272: T- Rax001
+    400274: T_Rex_GEO
+    400276: T_Rex_GEO_AA001
+    400278: Tongue_polySurface002
+    400280: Tongue_polySurface003
+    400282: //RootNode
+    2300000: Cylinder001
+    2300002: Cylinder002
+    2300004: Plane002
+    2300006: Raw_meat
+    2300008: Raw_meat002
+    2300010: Raw_meat003
+    2300012: Raw_meat004
+    2300014: Tongue_polySurface002
+    3300000: Cylinder001
+    3300002: Cylinder002
+    3300004: Plane002
+    3300006: Raw_meat
+    3300008: Raw_meat002
+    3300010: Raw_meat003
+    3300012: Raw_meat004
+    3300014: Tongue_polySurface002
+    4300000: Cylinder001
+    4300002: Raw_meat
+    4300004: Raw_meat001
+    4300006: Raw_meat002
+    4300008: Raw_meat003
+    4300010: Raw_meat004
+    4300012: Plane002
+    4300014: Cylinder002
+    4300016: T_Rex_GEO_AA001
+    4300018: Tongue_polySurface002
+    4300020: T_Rex_GEO
+    4300022: pSphere1
+    4300024: polySurface33
+    4300026: polySurface32
+    4300028: Tongue_polySurface003
+    7400000: walk
+    9500000: //RootNode
+    13700000: polySurface32
+    13700002: polySurface33
+    13700004: pSphere1
+    13700006: Raw_meat001
+    13700008: T_Rex_GEO
+    13700010: T_Rex_GEO_AA001
+    13700012: Tongue_polySurface003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 1614
+      lastFrame: 1939.9999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

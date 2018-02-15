@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 35c89579fe231de44b1a5d362db07cc0
+timeCreated: 1518643844
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JMH JENPAU
+  fontNames:
+  - JMH JENPAU
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

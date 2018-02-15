@@ -1,0 +1,3429 @@
+fileFormatVersion: 2
+guid: 7edfd31a11eed3d4b9d90f1fbaf701be
+timeCreated: 1497866662
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Brow L Bone001
+    100002: Brow L Bone002
+    100004: Brow L Bone003
+    100006: Brow R Bone004
+    100008: Brow R Bone005
+    100010: Brow R Bone006
+    100012: Sphere001
+    100014: Tiger Body
+    100016: Tiger eyeL
+    100018: Tiger eyeL Bone001
+    100020: Tiger eyeR
+    100022: Tiger eyeR Bone002
+    100024: Tiger Fur
+    100026: Tiger gum
+    100028: Tiger Mostash
+    100030: Tiger Mostash Bone001
+    100032: Tiger Mostash Bone002
+    100034: Tiger Mostash Bone003
+    100036: Tiger Mostash Bone004
+    100038: Tiger Mostash Bone005
+    100040: Tiger Mostash Bone006
+    100042: Tiger Mostash Bone007
+    100044: Tiger Mostash Bone008
+    100046: Tiger teethDown
+    100048: Tiger teethUp
+    100050: Tiger tongue
+    100052: Tiger tongue Bone001
+    100054: Tiger tongue Bone002
+    100056: Tiger tongue Bone003
+    100058: Tiger tongue Bone004
+    100060: Tiger tongue Bone005
+    100062: Tiger tongue Bone006
+    100064: Tiger tongue Bone007
+    100066: Tiger_
+    100068: Tiger_ Head
+    100070: Tiger_ L Calf
+    100072: Tiger_ L Clavicle
+    100074: Tiger_ L Finger0
+    100076: Tiger_ L Foot
+    100078: Tiger_ L Forearm
+    100080: Tiger_ L ForeTwist
+    100082: Tiger_ L ForeTwist1
+    100084: Tiger_ L ForeTwist2
+    100086: Tiger_ L Hand
+    100088: Tiger_ L HorseLink
+    100090: Tiger_ L Thigh
+    100092: Tiger_ L Toe0
+    100094: Tiger_ L UpperArm
+    100096: Tiger_ Neck
+    100098: Tiger_ Neck1
+    100100: Tiger_ Neck2
+    100102: Tiger_ Neck3
+    100104: Tiger_ Pelvis
+    100106: Tiger_ Ponytail1
+    100108: Tiger_ Ponytail11
+    100110: Tiger_ Ponytail12
+    100112: Tiger_ Ponytail2
+    100114: Tiger_ Ponytail21
+    100116: Tiger_ Ponytail22
+    100118: Tiger_ R Calf
+    100120: Tiger_ R Clavicle
+    100122: Tiger_ R Finger0
+    100124: Tiger_ R Foot
+    100126: Tiger_ R Forearm
+    100128: Tiger_ R ForeTwist
+    100130: Tiger_ R ForeTwist1
+    100132: Tiger_ R ForeTwist2
+    100134: Tiger_ R Hand
+    100136: Tiger_ R HorseLink
+    100138: Tiger_ R Thigh
+    100140: Tiger_ R Toe0
+    100142: Tiger_ R UpperArm
+    100144: Tiger_ Spine
+    100146: Tiger_ Spine1
+    100148: Tiger_ Spine2
+    100150: Tiger_ Spine3
+    100152: Tiger_ Spine4
+    100154: Tiger_ Tail
+    100156: Tiger_ Tail1
+    100158: Tiger_ Tail2
+    100160: Tiger_ Tail3
+    100162: Tiger_ Tail4
+    100164: Tiger_ Tail5
+    100166: Tiger_ Tail6
+    100168: Tiger_ Xtra01
+    100170: //RootNode
+    400000: Brow L Bone001
+    400002: Brow L Bone002
+    400004: Brow L Bone003
+    400006: Brow R Bone004
+    400008: Brow R Bone005
+    400010: Brow R Bone006
+    400012: Sphere001
+    400014: Tiger Body
+    400016: Tiger eyeL
+    400018: Tiger eyeL Bone001
+    400020: Tiger eyeR
+    400022: Tiger eyeR Bone002
+    400024: Tiger Fur
+    400026: Tiger gum
+    400028: Tiger Mostash
+    400030: Tiger Mostash Bone001
+    400032: Tiger Mostash Bone002
+    400034: Tiger Mostash Bone003
+    400036: Tiger Mostash Bone004
+    400038: Tiger Mostash Bone005
+    400040: Tiger Mostash Bone006
+    400042: Tiger Mostash Bone007
+    400044: Tiger Mostash Bone008
+    400046: Tiger teethDown
+    400048: Tiger teethUp
+    400050: Tiger tongue
+    400052: Tiger tongue Bone001
+    400054: Tiger tongue Bone002
+    400056: Tiger tongue Bone003
+    400058: Tiger tongue Bone004
+    400060: Tiger tongue Bone005
+    400062: Tiger tongue Bone006
+    400064: Tiger tongue Bone007
+    400066: Tiger_
+    400068: Tiger_ Head
+    400070: Tiger_ L Calf
+    400072: Tiger_ L Clavicle
+    400074: Tiger_ L Finger0
+    400076: Tiger_ L Foot
+    400078: Tiger_ L Forearm
+    400080: Tiger_ L ForeTwist
+    400082: Tiger_ L ForeTwist1
+    400084: Tiger_ L ForeTwist2
+    400086: Tiger_ L Hand
+    400088: Tiger_ L HorseLink
+    400090: Tiger_ L Thigh
+    400092: Tiger_ L Toe0
+    400094: Tiger_ L UpperArm
+    400096: Tiger_ Neck
+    400098: Tiger_ Neck1
+    400100: Tiger_ Neck2
+    400102: Tiger_ Neck3
+    400104: Tiger_ Pelvis
+    400106: Tiger_ Ponytail1
+    400108: Tiger_ Ponytail11
+    400110: Tiger_ Ponytail12
+    400112: Tiger_ Ponytail2
+    400114: Tiger_ Ponytail21
+    400116: Tiger_ Ponytail22
+    400118: Tiger_ R Calf
+    400120: Tiger_ R Clavicle
+    400122: Tiger_ R Finger0
+    400124: Tiger_ R Foot
+    400126: Tiger_ R Forearm
+    400128: Tiger_ R ForeTwist
+    400130: Tiger_ R ForeTwist1
+    400132: Tiger_ R ForeTwist2
+    400134: Tiger_ R Hand
+    400136: Tiger_ R HorseLink
+    400138: Tiger_ R Thigh
+    400140: Tiger_ R Toe0
+    400142: Tiger_ R UpperArm
+    400144: Tiger_ Spine
+    400146: Tiger_ Spine1
+    400148: Tiger_ Spine2
+    400150: Tiger_ Spine3
+    400152: Tiger_ Spine4
+    400154: Tiger_ Tail
+    400156: Tiger_ Tail1
+    400158: Tiger_ Tail2
+    400160: Tiger_ Tail3
+    400162: Tiger_ Tail4
+    400164: Tiger_ Tail5
+    400166: Tiger_ Tail6
+    400168: Tiger_ Xtra01
+    400170: //RootNode
+    2300000: Sphere001
+    3300000: Sphere001
+    4300000: Tiger tongue
+    4300002: Tiger eyeL
+    4300004: Tiger eyeR
+    4300006: Tiger teethDown
+    4300008: Tiger Fur
+    4300010: Tiger Mostash
+    4300012: Tiger Body
+    4300014: Tiger teethUp
+    4300016: Tiger gum
+    4300018: Sphere001
+    7400000: Sit
+    7400002: Idle
+    7400004: Roar
+    7400006: Relax
+    7400008: Walk
+    7400010: Enterence
+    7400012: Play
+    7400014: Path
+    7400016: Stand
+    7400018: SitPath
+    9500000: //RootNode
+    13700000: Tiger Body
+    13700002: Tiger eyeL
+    13700004: Tiger eyeR
+    13700006: Tiger Fur
+    13700008: Tiger gum
+    13700010: Tiger Mostash
+    13700012: Tiger teethDown
+    13700014: Tiger teethUp
+    13700016: Tiger tongue
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Tiger Body
+        weight: 1
+      - path: Tiger eyeL
+        weight: 1
+      - path: Tiger eyeR
+        weight: 1
+      - path: Tiger Fur
+        weight: 1
+      - path: Tiger gum
+        weight: 1
+      - path: Tiger Mostash
+        weight: 1
+      - path: Tiger teethDown
+        weight: 1
+      - path: Tiger teethUp
+        weight: 1
+      - path: Tiger tongue
+        weight: 1
+      - path: Tiger_
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot/Tiger_ L Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot/Tiger_ R Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand/Tiger_ L Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeL Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeR Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003/Tiger
+          Mostash Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007/Tiger
+          Mostash Bone008
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11/Tiger_ Ponytail12
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21/Tiger_ Ponytail22
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006/Tiger
+          tongue Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand/Tiger_ R Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5/Tiger_ Tail6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sit
+      takeName: Take 001
+      firstFrame: 530
+      lastFrame: 730
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Tiger Body
+        weight: 1
+      - path: Tiger eyeL
+        weight: 1
+      - path: Tiger eyeR
+        weight: 1
+      - path: Tiger Fur
+        weight: 1
+      - path: Tiger gum
+        weight: 1
+      - path: Tiger Mostash
+        weight: 1
+      - path: Tiger teethDown
+        weight: 1
+      - path: Tiger teethUp
+        weight: 1
+      - path: Tiger tongue
+        weight: 1
+      - path: Tiger_
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot/Tiger_ L Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot/Tiger_ R Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand/Tiger_ L Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeL Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeR Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003/Tiger
+          Mostash Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007/Tiger
+          Mostash Bone008
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11/Tiger_ Ponytail12
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21/Tiger_ Ponytail22
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006/Tiger
+          tongue Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand/Tiger_ R Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5/Tiger_ Tail6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Roar
+      takeName: Take 001
+      firstFrame: 450
+      lastFrame: 530
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: ControlBoolean
+        data: 
+        objectReferenceParameter: {fileID: 9100000, guid: f0a69bd3fc900ae469686b3e7dd4c93d,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Tiger Body
+        weight: 1
+      - path: Tiger eyeL
+        weight: 1
+      - path: Tiger eyeR
+        weight: 1
+      - path: Tiger Fur
+        weight: 1
+      - path: Tiger gum
+        weight: 1
+      - path: Tiger Mostash
+        weight: 1
+      - path: Tiger teethDown
+        weight: 1
+      - path: Tiger teethUp
+        weight: 1
+      - path: Tiger tongue
+        weight: 1
+      - path: Tiger_
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot/Tiger_ L Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot/Tiger_ R Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand/Tiger_ L Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeL Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeR Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003/Tiger
+          Mostash Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007/Tiger
+          Mostash Bone008
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11/Tiger_ Ponytail12
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21/Tiger_ Ponytail22
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006/Tiger
+          tongue Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand/Tiger_ R Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5/Tiger_ Tail6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Relax
+      takeName: Take 001
+      firstFrame: 930
+      lastFrame: 1236
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Tiger Body
+        weight: 1
+      - path: Tiger eyeL
+        weight: 1
+      - path: Tiger eyeR
+        weight: 1
+      - path: Tiger Fur
+        weight: 1
+      - path: Tiger gum
+        weight: 1
+      - path: Tiger Mostash
+        weight: 1
+      - path: Tiger teethDown
+        weight: 1
+      - path: Tiger teethUp
+        weight: 1
+      - path: Tiger tongue
+        weight: 1
+      - path: Tiger_
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot/Tiger_ L Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot/Tiger_ R Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand/Tiger_ L Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeL Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeR Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003/Tiger
+          Mostash Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007/Tiger
+          Mostash Bone008
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11/Tiger_ Ponytail12
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21/Tiger_ Ponytail22
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006/Tiger
+          tongue Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand/Tiger_ R Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5/Tiger_ Tail6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1360
+      lastFrame: 2029.9999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Tiger Body
+        weight: 1
+      - path: Tiger eyeL
+        weight: 1
+      - path: Tiger eyeR
+        weight: 1
+      - path: Tiger Fur
+        weight: 1
+      - path: Tiger gum
+        weight: 1
+      - path: Tiger Mostash
+        weight: 1
+      - path: Tiger teethDown
+        weight: 1
+      - path: Tiger teethUp
+        weight: 1
+      - path: Tiger tongue
+        weight: 1
+      - path: Tiger_
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot/Tiger_ L Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot/Tiger_ R Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand/Tiger_ L Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeL Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeR Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003/Tiger
+          Mostash Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007/Tiger
+          Mostash Bone008
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11/Tiger_ Ponytail12
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21/Tiger_ Ponytail22
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006/Tiger
+          tongue Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand/Tiger_ R Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5/Tiger_ Tail6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Enterence
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Tiger Body
+        weight: 1
+      - path: Tiger eyeL
+        weight: 1
+      - path: Tiger eyeR
+        weight: 1
+      - path: Tiger Fur
+        weight: 1
+      - path: Tiger gum
+        weight: 1
+      - path: Tiger Mostash
+        weight: 1
+      - path: Tiger teethDown
+        weight: 1
+      - path: Tiger teethUp
+        weight: 1
+      - path: Tiger tongue
+        weight: 1
+      - path: Tiger_
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot/Tiger_ L Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot/Tiger_ R Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand/Tiger_ L Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeL Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeR Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003/Tiger
+          Mostash Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007/Tiger
+          Mostash Bone008
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11/Tiger_ Ponytail12
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21/Tiger_ Ponytail22
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006/Tiger
+          tongue Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand/Tiger_ R Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5/Tiger_ Tail6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Play
+      takeName: Take 001
+      firstFrame: 730
+      lastFrame: 930
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Tiger Body
+        weight: 1
+      - path: Tiger eyeL
+        weight: 1
+      - path: Tiger eyeR
+        weight: 1
+      - path: Tiger Fur
+        weight: 1
+      - path: Tiger gum
+        weight: 1
+      - path: Tiger Mostash
+        weight: 1
+      - path: Tiger teethDown
+        weight: 1
+      - path: Tiger teethUp
+        weight: 1
+      - path: Tiger tongue
+        weight: 1
+      - path: Tiger_
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot/Tiger_ L Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot/Tiger_ R Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand/Tiger_ L Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeL Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeR Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003/Tiger
+          Mostash Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007/Tiger
+          Mostash Bone008
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11/Tiger_ Ponytail12
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21/Tiger_ Ponytail22
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006/Tiger
+          tongue Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand/Tiger_ R Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5/Tiger_ Tail6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Path
+      takeName: Take 001
+      firstFrame: 1236
+      lastFrame: 1360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Tiger Body
+        weight: 1
+      - path: Tiger eyeL
+        weight: 1
+      - path: Tiger eyeR
+        weight: 1
+      - path: Tiger Fur
+        weight: 1
+      - path: Tiger gum
+        weight: 1
+      - path: Tiger Mostash
+        weight: 1
+      - path: Tiger teethDown
+        weight: 1
+      - path: Tiger teethUp
+        weight: 1
+      - path: Tiger tongue
+        weight: 1
+      - path: Tiger_
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot/Tiger_ L Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot/Tiger_ R Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand/Tiger_ L Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeL Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeR Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003/Tiger
+          Mostash Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007/Tiger
+          Mostash Bone008
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11/Tiger_ Ponytail12
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21/Tiger_ Ponytail22
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006/Tiger
+          tongue Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand/Tiger_ R Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5/Tiger_ Tail6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand
+      takeName: Take 001
+      firstFrame: 1236
+      lastFrame: 1335
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Tiger Body
+        weight: 1
+      - path: Tiger eyeL
+        weight: 1
+      - path: Tiger eyeR
+        weight: 1
+      - path: Tiger Fur
+        weight: 1
+      - path: Tiger gum
+        weight: 1
+      - path: Tiger Mostash
+        weight: 1
+      - path: Tiger teethDown
+        weight: 1
+      - path: Tiger teethUp
+        weight: 1
+      - path: Tiger tongue
+        weight: 1
+      - path: Tiger_
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot/Tiger_ L Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot/Tiger_ R Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand/Tiger_ L Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeL Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeR Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003/Tiger
+          Mostash Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007/Tiger
+          Mostash Bone008
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11/Tiger_ Ponytail12
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21/Tiger_ Ponytail22
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006/Tiger
+          tongue Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand/Tiger_ R Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5/Tiger_ Tail6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SitPath
+      takeName: Take 001
+      firstFrame: 693
+      lastFrame: 725
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Tiger Body
+        weight: 1
+      - path: Tiger eyeL
+        weight: 1
+      - path: Tiger eyeR
+        weight: 1
+      - path: Tiger Fur
+        weight: 1
+      - path: Tiger gum
+        weight: 1
+      - path: Tiger Mostash
+        weight: 1
+      - path: Tiger teethDown
+        weight: 1
+      - path: Tiger teethUp
+        weight: 1
+      - path: Tiger tongue
+        weight: 1
+      - path: Tiger_
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ L Thigh/Tiger_ L Calf/Tiger_
+          L HorseLink/Tiger_ L Foot/Tiger_ L Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ R Thigh/Tiger_ R Calf/Tiger_
+          R HorseLink/Tiger_ R Foot/Tiger_ R Toe0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ L Clavicle/Tiger_ L UpperArm/Tiger_
+          L Forearm/Tiger_ L Hand/Tiger_ L Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow L Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Brow R Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeL Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger eyeR Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone001/Tiger Mostash Bone002/Tiger Mostash Bone003/Tiger
+          Mostash Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger Mostash Bone005/Tiger Mostash Bone006/Tiger Mostash Bone007/Tiger
+          Mostash Bone008
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail1/Tiger_ Ponytail11/Tiger_ Ponytail12
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Ponytail2/Tiger_ Ponytail21/Tiger_ Ponytail22
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ Neck1/Tiger_ Neck2/Tiger_ Neck3/Tiger_
+          Head/Tiger_ Xtra01/Tiger tongue Bone001/Tiger tongue Bone002/Tiger tongue
+          Bone003/Tiger tongue Bone004/Tiger tongue Bone005/Tiger tongue Bone006/Tiger
+          tongue Bone007
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R ForeTwist2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Spine1/Tiger_ Spine2/Tiger_
+          Spine3/Tiger_ Spine4/Tiger_ Neck/Tiger_ R Clavicle/Tiger_ R UpperArm/Tiger_
+          R Forearm/Tiger_ R Hand/Tiger_ R Finger0
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5
+        weight: 1
+      - path: Tiger_/Tiger_ Pelvis/Tiger_ Spine/Tiger_ Tail/Tiger_ Tail1/Tiger_ Tail2/Tiger_
+          Tail3/Tiger_ Tail4/Tiger_ Tail5/Tiger_ Tail6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

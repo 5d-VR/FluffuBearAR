@@ -1,0 +1,3291 @@
+fileFormatVersion: 2
+guid: aab1879ab06cd5a42848cda2504f6781
+timeCreated: 1508968552
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone002 1
+    100006: Bone003
+    100008: Bone003 1
+    100010: Bone004
+    100012: Bone004 1
+    100014: Bone005
+    100016: Bone006
+    100018: Bone010
+    100020: Bone010 1
+    100022: Bone011
+    100024: Bone011 1
+    100026: Bone018
+    100028: Bone019
+    100030: Bone020
+    100032: Bone021
+    100034: Bone022
+    100036: Bone023
+    100038: polySurface32
+    100040: polySurface33
+    100042: pSphere1
+    100044: Raw_meat001
+    100046: T- Rax Head001
+    100048: T- Rax HeadNub001
+    100050: T- Rax L Calf001
+    100052: T- Rax L Clavicle001
+    100054: T- Rax L Finger013
+    100056: T- Rax L Finger014
+    100058: T- Rax L Finger015
+    100060: T- Rax L Finger016
+    100062: T- Rax L Finger017
+    100064: T- Rax L Finger018
+    100066: T- Rax L Finger0Nub001
+    100068: T- Rax L Finger1Nub001
+    100070: T- Rax L Foot001
+    100072: T- Rax L Forearm001
+    100074: T- Rax L Hand001
+    100076: T- Rax L HorseLink001
+    100078: T- Rax L Thigh001
+    100080: T- Rax L Toe023
+    100082: T- Rax L Toe024
+    100084: T- Rax L Toe025
+    100086: T- Rax L Toe026
+    100088: T- Rax L Toe027
+    100090: T- Rax L Toe028
+    100092: T- Rax L Toe029
+    100094: T- Rax L Toe030
+    100096: T- Rax L Toe031
+    100098: T- Rax L Toe0Nub001
+    100100: T- Rax L Toe1Nub001
+    100102: T- Rax L Toe2Nub001
+    100104: T- Rax L UpperArm001
+    100106: T- Rax Neck004
+    100108: T- Rax Neck005
+    100110: T- Rax Neck006
+    100112: T- Rax Neck007
+    100114: T- Rax Pelvis001
+    100116: T- Rax R Calf001
+    100118: T- Rax R Clavicle001
+    100120: T- Rax R Finger013
+    100122: T- Rax R Finger014
+    100124: T- Rax R Finger015
+    100126: T- Rax R Finger016
+    100128: T- Rax R Finger017
+    100130: T- Rax R Finger018
+    100132: T- Rax R Finger0Nub001
+    100134: T- Rax R Finger1Nub001
+    100136: T- Rax R Foot001
+    100138: T- Rax R Forearm001
+    100140: T- Rax R Hand001
+    100142: T- Rax R HorseLink001
+    100144: T- Rax R Thigh001
+    100146: T- Rax R Toe023
+    100148: T- Rax R Toe024
+    100150: T- Rax R Toe025
+    100152: T- Rax R Toe026
+    100154: T- Rax R Toe027
+    100156: T- Rax R Toe028
+    100158: T- Rax R Toe029
+    100160: T- Rax R Toe030
+    100162: T- Rax R Toe031
+    100164: T- Rax R Toe0Nub001
+    100166: T- Rax R Toe1Nub001
+    100168: T- Rax R Toe2Nub001
+    100170: T- Rax R UpperArm001
+    100172: T- Rax Spine004
+    100174: T- Rax Spine005
+    100176: T- Rax Spine006
+    100178: T- Rax Spine007
+    100180: T- Rax Tail020
+    100182: T- Rax Tail021
+    100184: T- Rax Tail022
+    100186: T- Rax Tail023
+    100188: T- Rax Tail024
+    100190: T- Rax Tail025
+    100192: T- Rax Tail026
+    100194: T- Rax Tail027
+    100196: T- Rax Tail028
+    100198: T- Rax Tail029
+    100200: T- Rax Tail030
+    100202: T- Rax Tail031
+    100204: T- Rax Tail032
+    100206: T- Rax Tail033
+    100208: T- Rax Tail034
+    100210: T- Rax Tail035
+    100212: T- Rax Tail036
+    100214: T- Rax Tail037
+    100216: T- Rax Tail038
+    100218: T- Rax Tail039
+    100220: T- Rax TailNub001
+    100222: T- Rax Xtra01Nub001
+    100224: T- Rax Xtra02Nub001
+    100226: T- Rax Xtra207
+    100228: T- Rax Xtra208
+    100230: T- Rax Xtra209
+    100232: T- Rax Xtra210
+    100234: T- Rax Xtra211
+    100236: T- Rax Xtra212
+    100238: T- Rax Xtra213
+    100240: T- Rax001
+    100242: //RootNode
+    100244: T_Rex_GEO
+    100246: Tongue_polySurface003
+    400000: Bone001
+    400002: Bone002
+    400004: Bone002 1
+    400006: Bone003
+    400008: Bone003 1
+    400010: Bone004
+    400012: Bone004 1
+    400014: Bone005
+    400016: Bone006
+    400018: Bone010
+    400020: Bone010 1
+    400022: Bone011
+    400024: Bone011 1
+    400026: Bone018
+    400028: Bone019
+    400030: Bone020
+    400032: Bone021
+    400034: Bone022
+    400036: Bone023
+    400038: polySurface32
+    400040: polySurface33
+    400042: pSphere1
+    400044: Raw_meat001
+    400046: T- Rax Head001
+    400048: T- Rax HeadNub001
+    400050: T- Rax L Calf001
+    400052: T- Rax L Clavicle001
+    400054: T- Rax L Finger013
+    400056: T- Rax L Finger014
+    400058: T- Rax L Finger015
+    400060: T- Rax L Finger016
+    400062: T- Rax L Finger017
+    400064: T- Rax L Finger018
+    400066: T- Rax L Finger0Nub001
+    400068: T- Rax L Finger1Nub001
+    400070: T- Rax L Foot001
+    400072: T- Rax L Forearm001
+    400074: T- Rax L Hand001
+    400076: T- Rax L HorseLink001
+    400078: T- Rax L Thigh001
+    400080: T- Rax L Toe023
+    400082: T- Rax L Toe024
+    400084: T- Rax L Toe025
+    400086: T- Rax L Toe026
+    400088: T- Rax L Toe027
+    400090: T- Rax L Toe028
+    400092: T- Rax L Toe029
+    400094: T- Rax L Toe030
+    400096: T- Rax L Toe031
+    400098: T- Rax L Toe0Nub001
+    400100: T- Rax L Toe1Nub001
+    400102: T- Rax L Toe2Nub001
+    400104: T- Rax L UpperArm001
+    400106: T- Rax Neck004
+    400108: T- Rax Neck005
+    400110: T- Rax Neck006
+    400112: T- Rax Neck007
+    400114: T- Rax Pelvis001
+    400116: T- Rax R Calf001
+    400118: T- Rax R Clavicle001
+    400120: T- Rax R Finger013
+    400122: T- Rax R Finger014
+    400124: T- Rax R Finger015
+    400126: T- Rax R Finger016
+    400128: T- Rax R Finger017
+    400130: T- Rax R Finger018
+    400132: T- Rax R Finger0Nub001
+    400134: T- Rax R Finger1Nub001
+    400136: T- Rax R Foot001
+    400138: T- Rax R Forearm001
+    400140: T- Rax R Hand001
+    400142: T- Rax R HorseLink001
+    400144: T- Rax R Thigh001
+    400146: T- Rax R Toe023
+    400148: T- Rax R Toe024
+    400150: T- Rax R Toe025
+    400152: T- Rax R Toe026
+    400154: T- Rax R Toe027
+    400156: T- Rax R Toe028
+    400158: T- Rax R Toe029
+    400160: T- Rax R Toe030
+    400162: T- Rax R Toe031
+    400164: T- Rax R Toe0Nub001
+    400166: T- Rax R Toe1Nub001
+    400168: T- Rax R Toe2Nub001
+    400170: T- Rax R UpperArm001
+    400172: T- Rax Spine004
+    400174: T- Rax Spine005
+    400176: T- Rax Spine006
+    400178: T- Rax Spine007
+    400180: T- Rax Tail020
+    400182: T- Rax Tail021
+    400184: T- Rax Tail022
+    400186: T- Rax Tail023
+    400188: T- Rax Tail024
+    400190: T- Rax Tail025
+    400192: T- Rax Tail026
+    400194: T- Rax Tail027
+    400196: T- Rax Tail028
+    400198: T- Rax Tail029
+    400200: T- Rax Tail030
+    400202: T- Rax Tail031
+    400204: T- Rax Tail032
+    400206: T- Rax Tail033
+    400208: T- Rax Tail034
+    400210: T- Rax Tail035
+    400212: T- Rax Tail036
+    400214: T- Rax Tail037
+    400216: T- Rax Tail038
+    400218: T- Rax Tail039
+    400220: T- Rax TailNub001
+    400222: T- Rax Xtra01Nub001
+    400224: T- Rax Xtra02Nub001
+    400226: T- Rax Xtra207
+    400228: T- Rax Xtra208
+    400230: T- Rax Xtra209
+    400232: T- Rax Xtra210
+    400234: T- Rax Xtra211
+    400236: T- Rax Xtra212
+    400238: T- Rax Xtra213
+    400240: T- Rax001
+    400242: //RootNode
+    400244: T_Rex_GEO
+    400246: Tongue_polySurface003
+    4300000: Raw_meat001
+    4300002: T_Rex_GEO
+    4300004: pSphere1
+    4300006: polySurface33
+    4300008: polySurface32
+    4300010: Tongue_polySurface003
+    7400000: walk
+    7400002: idle
+    7400004: Roar
+    7400006: Drink
+    7400008: Eat
+    7400010: Take 001 (5)
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface32
+    13700002: polySurface33
+    13700004: pSphere1
+    13700006: Raw_meat001
+    13700008: T_Rex_GEO
+    13700010: Tongue_polySurface003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 325
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raw_meat001
+        weight: 1
+      - path: T- Rax001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024/T- Rax L Toe025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024/T- Rax L Toe025/T- Rax L Toe0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027/T- Rax L Toe028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027/T- Rax L Toe028/T- Rax L Toe1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030/T- Rax L Toe031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030/T- Rax L Toe031/T- Rax L Toe2Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024/T- Rax R Toe025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024/T- Rax R Toe025/T- Rax R Toe0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027/T- Rax R Toe028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027/T- Rax R Toe028/T- Rax R Toe1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030/T- Rax R Toe031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030/T- Rax R Toe031/T- Rax R Toe2Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014/T-
+          Rax L Finger015
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014/T-
+          Rax L Finger015/T- Rax L Finger0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017/T-
+          Rax L Finger018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017/T-
+          Rax L Finger018/T- Rax L Finger1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone003
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone003/Bone004 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone011 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone011 1/Bone002 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone003 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone003 1/Bone004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone011
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone011/Bone002
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone019
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone020
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone021
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone022
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax HeadNub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra01Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212/T- Rax Xtra213
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212/T- Rax Xtra213/T- Rax Xtra02Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014/T-
+          Rax R Finger015
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014/T-
+          Rax R Finger015/T- Rax R Finger0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017/T-
+          Rax R Finger018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017/T-
+          Rax R Finger018/T- Rax R Finger1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038/T- Rax Tail039
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038/T- Rax Tail039/T- Rax TailNub001
+        weight: 1
+      - path: T_Rex_GEO
+        weight: 1
+      - path: T_Rex_GEO/polySurface32
+        weight: 1
+      - path: T_Rex_GEO/polySurface33
+        weight: 1
+      - path: T_Rex_GEO/pSphere1
+        weight: 1
+      - path: T_Rex_GEO/Tongue_polySurface003
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 325
+      lastFrame: 680
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raw_meat001
+        weight: 1
+      - path: T- Rax001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024/T- Rax L Toe025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024/T- Rax L Toe025/T- Rax L Toe0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027/T- Rax L Toe028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027/T- Rax L Toe028/T- Rax L Toe1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030/T- Rax L Toe031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030/T- Rax L Toe031/T- Rax L Toe2Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024/T- Rax R Toe025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024/T- Rax R Toe025/T- Rax R Toe0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027/T- Rax R Toe028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027/T- Rax R Toe028/T- Rax R Toe1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030/T- Rax R Toe031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030/T- Rax R Toe031/T- Rax R Toe2Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014/T-
+          Rax L Finger015
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014/T-
+          Rax L Finger015/T- Rax L Finger0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017/T-
+          Rax L Finger018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017/T-
+          Rax L Finger018/T- Rax L Finger1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone003
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone003/Bone004 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone011 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone011 1/Bone002 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone003 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone003 1/Bone004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone011
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone011/Bone002
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone019
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone020
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone021
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone022
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax HeadNub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra01Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212/T- Rax Xtra213
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212/T- Rax Xtra213/T- Rax Xtra02Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014/T-
+          Rax R Finger015
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014/T-
+          Rax R Finger015/T- Rax R Finger0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017/T-
+          Rax R Finger018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017/T-
+          Rax R Finger018/T- Rax R Finger1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038/T- Rax Tail039
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038/T- Rax Tail039/T- Rax TailNub001
+        weight: 1
+      - path: T_Rex_GEO
+        weight: 1
+      - path: T_Rex_GEO/polySurface32
+        weight: 1
+      - path: T_Rex_GEO/polySurface33
+        weight: 1
+      - path: T_Rex_GEO/pSphere1
+        weight: 1
+      - path: T_Rex_GEO/Tongue_polySurface003
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Roar
+      takeName: Take 001
+      firstFrame: 680
+      lastFrame: 880
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raw_meat001
+        weight: 1
+      - path: T- Rax001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024/T- Rax L Toe025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024/T- Rax L Toe025/T- Rax L Toe0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027/T- Rax L Toe028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027/T- Rax L Toe028/T- Rax L Toe1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030/T- Rax L Toe031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030/T- Rax L Toe031/T- Rax L Toe2Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024/T- Rax R Toe025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024/T- Rax R Toe025/T- Rax R Toe0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027/T- Rax R Toe028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027/T- Rax R Toe028/T- Rax R Toe1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030/T- Rax R Toe031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030/T- Rax R Toe031/T- Rax R Toe2Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014/T-
+          Rax L Finger015
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014/T-
+          Rax L Finger015/T- Rax L Finger0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017/T-
+          Rax L Finger018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017/T-
+          Rax L Finger018/T- Rax L Finger1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone003
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone003/Bone004 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone011 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone011 1/Bone002 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone003 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone003 1/Bone004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone011
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone011/Bone002
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone019
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone020
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone021
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone022
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax HeadNub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra01Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212/T- Rax Xtra213
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212/T- Rax Xtra213/T- Rax Xtra02Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014/T-
+          Rax R Finger015
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014/T-
+          Rax R Finger015/T- Rax R Finger0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017/T-
+          Rax R Finger018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017/T-
+          Rax R Finger018/T- Rax R Finger1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038/T- Rax Tail039
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038/T- Rax Tail039/T- Rax TailNub001
+        weight: 1
+      - path: T_Rex_GEO
+        weight: 1
+      - path: T_Rex_GEO/polySurface32
+        weight: 1
+      - path: T_Rex_GEO/polySurface33
+        weight: 1
+      - path: T_Rex_GEO/pSphere1
+        weight: 1
+      - path: T_Rex_GEO/Tongue_polySurface003
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Drink
+      takeName: Take 001
+      firstFrame: 880
+      lastFrame: 1230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raw_meat001
+        weight: 1
+      - path: T- Rax001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024/T- Rax L Toe025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024/T- Rax L Toe025/T- Rax L Toe0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027/T- Rax L Toe028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027/T- Rax L Toe028/T- Rax L Toe1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030/T- Rax L Toe031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030/T- Rax L Toe031/T- Rax L Toe2Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024/T- Rax R Toe025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024/T- Rax R Toe025/T- Rax R Toe0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027/T- Rax R Toe028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027/T- Rax R Toe028/T- Rax R Toe1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030/T- Rax R Toe031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030/T- Rax R Toe031/T- Rax R Toe2Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014/T-
+          Rax L Finger015
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014/T-
+          Rax L Finger015/T- Rax L Finger0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017/T-
+          Rax L Finger018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017/T-
+          Rax L Finger018/T- Rax L Finger1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone003
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone003/Bone004 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone011 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone011 1/Bone002 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone003 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone003 1/Bone004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone011
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone011/Bone002
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone019
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone020
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone021
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone022
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax HeadNub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra01Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212/T- Rax Xtra213
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212/T- Rax Xtra213/T- Rax Xtra02Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014/T-
+          Rax R Finger015
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014/T-
+          Rax R Finger015/T- Rax R Finger0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017/T-
+          Rax R Finger018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017/T-
+          Rax R Finger018/T- Rax R Finger1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038/T- Rax Tail039
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038/T- Rax Tail039/T- Rax TailNub001
+        weight: 1
+      - path: T_Rex_GEO
+        weight: 1
+      - path: T_Rex_GEO/polySurface32
+        weight: 1
+      - path: T_Rex_GEO/polySurface33
+        weight: 1
+      - path: T_Rex_GEO/pSphere1
+        weight: 1
+      - path: T_Rex_GEO/Tongue_polySurface003
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Eat
+      takeName: Take 001
+      firstFrame: 1230
+      lastFrame: 1614
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raw_meat001
+        weight: 1
+      - path: T- Rax001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024/T- Rax L Toe025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024/T- Rax L Toe025/T- Rax L Toe0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027/T- Rax L Toe028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027/T- Rax L Toe028/T- Rax L Toe1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030/T- Rax L Toe031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030/T- Rax L Toe031/T- Rax L Toe2Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024/T- Rax R Toe025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024/T- Rax R Toe025/T- Rax R Toe0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027/T- Rax R Toe028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027/T- Rax R Toe028/T- Rax R Toe1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030/T- Rax R Toe031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030/T- Rax R Toe031/T- Rax R Toe2Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014/T-
+          Rax L Finger015
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014/T-
+          Rax L Finger015/T- Rax L Finger0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017/T-
+          Rax L Finger018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017/T-
+          Rax L Finger018/T- Rax L Finger1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone003
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone003/Bone004 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone011 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone011 1/Bone002 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone003 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone003 1/Bone004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone011
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone011/Bone002
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone019
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone020
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone021
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone022
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax HeadNub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra01Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212/T- Rax Xtra213
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212/T- Rax Xtra213/T- Rax Xtra02Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014/T-
+          Rax R Finger015
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014/T-
+          Rax R Finger015/T- Rax R Finger0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017/T-
+          Rax R Finger018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017/T-
+          Rax R Finger018/T- Rax R Finger1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038/T- Rax Tail039
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038/T- Rax Tail039/T- Rax TailNub001
+        weight: 1
+      - path: T_Rex_GEO
+        weight: 1
+      - path: T_Rex_GEO/polySurface32
+        weight: 1
+      - path: T_Rex_GEO/polySurface33
+        weight: 1
+      - path: T_Rex_GEO/pSphere1
+        weight: 1
+      - path: T_Rex_GEO/Tongue_polySurface003
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001 (5)
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1614
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Raw_meat001
+        weight: 1
+      - path: T- Rax001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024/T- Rax L Toe025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe023/T- Rax
+          L Toe024/T- Rax L Toe025/T- Rax L Toe0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027/T- Rax L Toe028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe026/T- Rax
+          L Toe027/T- Rax L Toe028/T- Rax L Toe1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030/T- Rax L Toe031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax L Thigh001/T- Rax
+          L Calf001/T- Rax L HorseLink001/T- Rax L Foot001/T- Rax L Toe029/T- Rax
+          L Toe030/T- Rax L Toe031/T- Rax L Toe2Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024/T- Rax R Toe025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe023/T- Rax
+          R Toe024/T- Rax R Toe025/T- Rax R Toe0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027/T- Rax R Toe028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe026/T- Rax
+          R Toe027/T- Rax R Toe028/T- Rax R Toe1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030/T- Rax R Toe031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax R Thigh001/T- Rax
+          R Calf001/T- Rax R HorseLink001/T- Rax R Foot001/T- Rax R Toe029/T- Rax
+          R Toe030/T- Rax R Toe031/T- Rax R Toe2Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014/T-
+          Rax L Finger015
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger013/T- Rax L Finger014/T-
+          Rax L Finger015/T- Rax L Finger0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017/T-
+          Rax L Finger018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax L Clavicle001/T- Rax L UpperArm001/T-
+          Rax L Forearm001/T- Rax L Hand001/T- Rax L Finger016/T- Rax L Finger017/T-
+          Rax L Finger018/T- Rax L Finger1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone005
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone006
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone003
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone003/Bone004 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone011 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010/Bone011 1/Bone002 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone003 1
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone003 1/Bone004
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone011
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone010 1/Bone011/Bone002
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone019
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone020
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone021
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone022
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/Bone023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax HeadNub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra01Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212/T- Rax Xtra213
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax Neck005/T- Rax Neck006/T- Rax Neck007/T-
+          Rax Head001/T- Rax Xtra207/T- Rax Xtra208/T- Rax Xtra209/T- Rax Xtra210/T-
+          Rax Xtra211/T- Rax Xtra212/T- Rax Xtra213/T- Rax Xtra02Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014/T-
+          Rax R Finger015
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger013/T- Rax R Finger014/T-
+          Rax R Finger015/T- Rax R Finger0Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017/T-
+          Rax R Finger018
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Spine005/T- Rax Spine006/T-
+          Rax Spine007/T- Rax Neck004/T- Rax R Clavicle001/T- Rax R UpperArm001/T-
+          Rax R Forearm001/T- Rax R Hand001/T- Rax R Finger016/T- Rax R Finger017/T-
+          Rax R Finger018/T- Rax R Finger1Nub001
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038/T- Rax Tail039
+        weight: 1
+      - path: T- Rax001/T- Rax Pelvis001/T- Rax Spine004/T- Rax Tail020/T- Rax Tail021/T-
+          Rax Tail022/T- Rax Tail023/T- Rax Tail024/T- Rax Tail025/T- Rax Tail026/T-
+          Rax Tail027/T- Rax Tail028/T- Rax Tail029/T- Rax Tail030/T- Rax Tail031/T-
+          Rax Tail032/T- Rax Tail033/T- Rax Tail034/T- Rax Tail035/T- Rax Tail036/T-
+          Rax Tail037/T- Rax Tail038/T- Rax Tail039/T- Rax TailNub001
+        weight: 1
+      - path: T_Rex_GEO
+        weight: 1
+      - path: T_Rex_GEO/polySurface32
+        weight: 1
+      - path: T_Rex_GEO/polySurface33
+        weight: 1
+      - path: T_Rex_GEO/pSphere1
+        weight: 1
+      - path: T_Rex_GEO/Tongue_polySurface003
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

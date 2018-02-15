@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: de509202509e4904c915355f7bfc8a1d
+timeCreated: 1499176513
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Tiger_Ground
+    100002: Tiger_Ground004
+    100004: //RootNode
+    100006: Tiger_Gress004
+    100008: Tiger_Gress01
+    100010: Tiger_Gress02
+    100012: Tiger_Gress03
+    400000: Tiger_Ground
+    400002: Tiger_Ground004
+    400004: //RootNode
+    400006: Tiger_Gress004
+    400008: Tiger_Gress01
+    400010: Tiger_Gress02
+    400012: Tiger_Gress03
+    2300000: Tiger_Ground
+    2300002: Tiger_Ground004
+    2300004: Tiger_Gress004
+    2300006: Tiger_Gress01
+    2300008: Tiger_Gress02
+    2300010: Tiger_Gress03
+    3300000: Tiger_Ground
+    3300002: Tiger_Ground004
+    3300004: Tiger_Gress004
+    3300006: Tiger_Gress01
+    3300008: Tiger_Gress02
+    3300010: Tiger_Gress03
+    4300000: Tiger_Ground
+    4300002: Tiger_Ground004
+    4300004: Tiger_Gress01
+    4300006: Tiger_Gress02
+    4300008: Tiger_Gress03
+    4300010: Tiger_Gress004
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

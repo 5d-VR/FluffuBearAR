@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 265f3db7c943c4542aa275d45ec0bee7
+timeCreated: 1510015284
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Husky
+    100002: Husky_
+    100004: Husky_ Footsteps
+    100006: Husky_ Head
+    100008: Husky_ HeadNub
+    100010: Husky_ L Calf
+    100012: Husky_ L Clavicle
+    100014: Husky_ L Finger0
+    100016: Husky_ L Finger0Nub
+    100018: Husky_ L Foot
+    100020: Husky_ L Forearm
+    100022: Husky_ L Hand
+    100024: Husky_ L HorseLink
+    100026: Husky_ L Thigh
+    100028: Husky_ L Toe0
+    100030: Husky_ L Toe0Nub
+    100032: Husky_ L UpperArm
+    100034: Husky_ Neck
+    100036: Husky_ Neck1
+    100038: Husky_ Neck2
+    100040: Husky_ Pelvis
+    100042: Husky_ Ponytail1
+    100044: Husky_ Ponytail11
+    100046: Husky_ Ponytail12
+    100048: Husky_ Ponytail1Nub
+    100050: Husky_ Ponytail2
+    100052: Husky_ Ponytail21
+    100054: Husky_ Ponytail22
+    100056: Husky_ Ponytail2Nub
+    100058: Husky_ R Calf
+    100060: Husky_ R Clavicle
+    100062: Husky_ R Finger0
+    100064: Husky_ R Finger0Nub
+    100066: Husky_ R Foot
+    100068: Husky_ R Forearm
+    100070: Husky_ R Hand
+    100072: Husky_ R HorseLink
+    100074: Husky_ R Thigh
+    100076: Husky_ R Toe0
+    100078: Husky_ R Toe0Nub
+    100080: Husky_ R UpperArm
+    100082: Husky_ Spine
+    100084: Husky_ Spine1
+    100086: Husky_ Spine2
+    100088: Husky_ Spine3
+    100090: Husky_ Tail
+    100092: Husky_ Tail1
+    100094: Husky_ Tail2
+    100096: Husky_ Tail3
+    100098: Husky_ Tail4
+    100100: Husky_ Tail5
+    100102: Husky_ Tail6
+    100104: Husky_ TailNub
+    100106: Husky_ Xtra01
+    100108: Husky_ Xtra01Nub
+    100110: Husky_ Xtra02
+    100112: Husky_ Xtra0202
+    100114: Husky_ Xtra0203
+    100116: Husky_ Xtra0204
+    100118: Husky_ Xtra0205
+    100120: Husky_ Xtra0206
+    100122: Husky_ Xtra0207
+    100124: Husky_ Xtra02Nub
+    100126: //RootNode
+    400000: Husky
+    400002: Husky_
+    400004: Husky_ Footsteps
+    400006: Husky_ Head
+    400008: Husky_ HeadNub
+    400010: Husky_ L Calf
+    400012: Husky_ L Clavicle
+    400014: Husky_ L Finger0
+    400016: Husky_ L Finger0Nub
+    400018: Husky_ L Foot
+    400020: Husky_ L Forearm
+    400022: Husky_ L Hand
+    400024: Husky_ L HorseLink
+    400026: Husky_ L Thigh
+    400028: Husky_ L Toe0
+    400030: Husky_ L Toe0Nub
+    400032: Husky_ L UpperArm
+    400034: Husky_ Neck
+    400036: Husky_ Neck1
+    400038: Husky_ Neck2
+    400040: Husky_ Pelvis
+    400042: Husky_ Ponytail1
+    400044: Husky_ Ponytail11
+    400046: Husky_ Ponytail12
+    400048: Husky_ Ponytail1Nub
+    400050: Husky_ Ponytail2
+    400052: Husky_ Ponytail21
+    400054: Husky_ Ponytail22
+    400056: Husky_ Ponytail2Nub
+    400058: Husky_ R Calf
+    400060: Husky_ R Clavicle
+    400062: Husky_ R Finger0
+    400064: Husky_ R Finger0Nub
+    400066: Husky_ R Foot
+    400068: Husky_ R Forearm
+    400070: Husky_ R Hand
+    400072: Husky_ R HorseLink
+    400074: Husky_ R Thigh
+    400076: Husky_ R Toe0
+    400078: Husky_ R Toe0Nub
+    400080: Husky_ R UpperArm
+    400082: Husky_ Spine
+    400084: Husky_ Spine1
+    400086: Husky_ Spine2
+    400088: Husky_ Spine3
+    400090: Husky_ Tail
+    400092: Husky_ Tail1
+    400094: Husky_ Tail2
+    400096: Husky_ Tail3
+    400098: Husky_ Tail4
+    400100: Husky_ Tail5
+    400102: Husky_ Tail6
+    400104: Husky_ TailNub
+    400106: Husky_ Xtra01
+    400108: Husky_ Xtra01Nub
+    400110: Husky_ Xtra02
+    400112: Husky_ Xtra0202
+    400114: Husky_ Xtra0203
+    400116: Husky_ Xtra0204
+    400118: Husky_ Xtra0205
+    400120: Husky_ Xtra0206
+    400122: Husky_ Xtra0207
+    400124: Husky_ Xtra02Nub
+    400126: //RootNode
+    4300000: Husky
+    7400000: Take 001
+    7400002: Intro
+    7400004: Idle
+    7400006: Barking
+    7400008: Sitting
+    7400010: walking
+    9500000: //RootNode
+    13700000: Husky
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 980
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Intro
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 77
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Barking
+      takeName: Take 001
+      firstFrame: 400
+      lastFrame: 515
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sitting
+      takeName: Take 001
+      firstFrame: 515
+      lastFrame: 740
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walking
+      takeName: Take 001
+      firstFrame: 740
+      lastFrame: 980
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

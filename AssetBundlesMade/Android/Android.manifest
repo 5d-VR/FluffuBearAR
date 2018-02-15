@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2704732993
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: trex
+      Dependencies: {}
+    Info_1:
+      Name: husky
+      Dependencies: {}
+    Info_2:
+      Name: tiger
+      Dependencies: {}
